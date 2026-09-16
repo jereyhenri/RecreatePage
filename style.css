@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    font-family: helvetica;
+
+}
+
+h1 {
+    color: rgba(96, 98, 96, 0.8);
+    text-align: center;
+    
+}
+
+p {
+    font-family: helvetica;
+    font-size: 10px;
+}
+
+.T{
+    text-decoration: underline;
+}
